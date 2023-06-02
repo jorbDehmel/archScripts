@@ -32,6 +32,7 @@ if __name__ == '__main__':
             print('--help lists this page')
             print('Otherwise, just list packages as arguments.')
             print('Jordan Dehmel, 2023, GPLv3, jdehmel@outlook.com')
+            continue
 
         if os.system('pacman -Q ' + pac) == 0:
             print('Package \'' + pac + '\' is already installed. Skipping.')
