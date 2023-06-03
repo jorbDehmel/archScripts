@@ -10,6 +10,7 @@ fish
 gdm
 git
 github-cli
+globus-connect-personal
 gnome-backgrounds
 gnome-browser-connector
 gnome-calculator
@@ -18,11 +19,14 @@ gnome-disk-utility
 gnome-session
 gnome-terminal
 gnome-tweaks
+google-chrome
 grub
 intel-ucode
 iwd
+lammps
 linux
 linux-firmware
+minecraft-launcher
 nano
 nautilus
 networkmanager
@@ -47,7 +51,11 @@ texlive-publishers
 texlive-science
 tk
 tlp
+tlpui
+unityhub
+visual-studio-code-bin
 vlc
+write_stylus
 xf86-video-vesa
 xorg-bdftopcf
 xorg-docs

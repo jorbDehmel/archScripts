@@ -5,10 +5,10 @@
 
 echo "This script meant to install arch with my preferences."
 
-sudo pacman --needed -Syu $(cat packages.txt) python git
+sudo pacman --needed -Syu python git
 
 # AUR packages
-./aurman.py --clean write_stylus tlpui unityhub visual-studio-code-bin minecraft-launcher lammps google-chrome globus-connect-personal --clean --install
+./aurman.py --pacman --clean $(cat packages.txt) --clean --install
 
 # Dirs
 mkdir -p ~/Programs
