@@ -2,12 +2,14 @@
 
 # How to generate / update packages.txt:
 # pacman -Qqe > packages.txt
+# aurman checks for an installed package, then main repos, then AUR
 
 echo "This script meant to install arch with my preferences."
 
+# Software which is a dependency of aurman
 sudo pacman --needed -Syu python git
 
-# AUR packages
+# AUR and pacman packages
 ./aurman.py --pacman --clean $(cat packages.txt) --clean --install
 
 # Dirs
@@ -16,5 +18,3 @@ mkdir -p ~/Programs
 # Start services
 sudo systemctl enable tlp NetworkManager gdm
 sudo systemctl start NetworkManager gdm
-
-echo "It is probably a good idea to reboot now."
