@@ -74,6 +74,8 @@ tlp
 tlpui
 unityhub
 valgrind
+vi
+vim
 visual-studio-code-bin
 vlc
 wine
