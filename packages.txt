@@ -28,6 +28,7 @@ google-chrome
 grub
 gst-plugin-libcamera
 iio-sensor-proxy
+imagej
 intel-ucode
 iptsd
 iwd
