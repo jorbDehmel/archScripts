@@ -33,6 +33,7 @@ intel-ucode
 iptsd
 iwd
 lammps
+lib32-unixodbc
 libcamera-tools
 libwacom-surface
 linux
