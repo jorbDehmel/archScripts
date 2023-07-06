@@ -21,6 +21,7 @@ gnome-control-center
 gnome-disk-utility
 gnome-keyring
 gnome-session
+gnome-shell-extensions
 gnome-system-monitor
 gnome-terminal
 gnome-tweaks
@@ -36,6 +37,7 @@ lammps
 lib32-unixodbc
 libcamera-tools
 libwacom-surface
+libxc
 linux
 linux-firmware
 linux-surface
@@ -54,6 +56,7 @@ pulseaudio
 python-pip
 recordmydesktop
 rust
+scalapack
 sdl2_ttf
 seahorse
 spotify-launcher
@@ -80,6 +83,7 @@ vi
 vim
 visual-studio-code-bin
 vlc
+w3m
 wine
 write_stylus
 xf86-video-vesa
@@ -120,4 +124,5 @@ xorg-xvinfo
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
+yay
 zram-generator
