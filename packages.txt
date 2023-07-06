@@ -47,6 +47,7 @@ nano
 nautilus
 networkmanager
 nodejs
+nordvpn-bin
 ntfs-3g
 obs-studio
 octave
@@ -125,4 +126,5 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 yay
+zoom
 zram-generator
