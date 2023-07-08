@@ -69,7 +69,7 @@ if __name__ == '__main__':
 
         # If enabled, check pacman before the AUR
         if check_pacman:
-            pacman_result: int = os.system('sudo pacman -S ' + pac)
+            pacman_result: int = os.system('sudo pacman -S --noconfirm ' + pac)
 
             if pacman_result == 0:
                 print('Package was installed via pacman. Passing over AUR check.')

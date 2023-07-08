@@ -5,6 +5,7 @@
 # aurman checks for an installed package, then main repos, then AUR
 
 echo "This script meant to install arch with my preferences."
+sudo cp archClean.sh /usr/bin/arch-clean
 
 # Software which is a dependency of aurman
 sudo pacman --needed -Syu python git
