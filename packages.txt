@@ -8,6 +8,7 @@ clang
 cmake
 dconf-editor
 efibootmgr
+fiji-bin
 firefox
 fish
 gdm
@@ -29,7 +30,6 @@ google-chrome
 grub
 gst-plugin-libcamera
 iio-sensor-proxy
-imagej
 intel-ucode
 iptsd
 iwd
