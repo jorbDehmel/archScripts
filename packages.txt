@@ -1,3 +1,4 @@
+arduino-ide-bin
 baobab
 base
 base-devel
@@ -47,6 +48,7 @@ networkmanager
 nodejs
 nordvpn-bin
 ntfs-3g
+oak-git
 obs-studio
 openshot
 pandoc-cli
@@ -81,7 +83,6 @@ valgrind
 visual-studio-code-bin
 vlc
 w3m
-wine
 write_stylus
 xf86-video-vesa
 xorg-bdftopcf
