@@ -50,7 +50,7 @@ linux-firmware
 linux-headers
 linux-surface
 linux-surface-headers
-mesa
+mesa-git
 minecraft-launcher
 nano
 nautilus
@@ -85,8 +85,6 @@ texlive-pstricks
 texlive-publishers
 thunar
 tk
-tlp
-tlpui
 unityhub
 valgrind
 vi
