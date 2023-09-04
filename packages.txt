@@ -57,6 +57,7 @@ nautilus
 networkmanager
 nodejs
 nordvpn-bin
+npm
 ntfs-3g
 oak-git
 openshot
@@ -64,6 +65,8 @@ pandoc-cli
 prusa-slicer
 pulseaudio
 python-matplotlib
+python-natsort
+python-pandas
 python-pip
 python-scikit-learn
 qemu-base
@@ -136,4 +139,6 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 yay
+yo
+zoom
 zram-generator
