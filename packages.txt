@@ -10,6 +10,7 @@ efibootmgr
 fiji-bin
 firefox
 fish
+gdb
 gdm
 gimp
 git
@@ -49,6 +50,7 @@ linux-firmware
 linux-headers
 linux-surface
 linux-surface-headers
+lldb
 mesa-git
 minecraft-launcher
 nano
@@ -91,6 +93,7 @@ vi
 virtualbox
 virtualbox-host-dkms
 visual-studio-code-bin
+vlc
 vpcs
 wireshark-qt
 write_stylus
