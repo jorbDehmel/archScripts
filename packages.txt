@@ -3,6 +3,7 @@ baobab
 base
 base-devel
 boost
+cellwriter
 clang
 cronie
 efibootmgr
@@ -19,6 +20,7 @@ gnome-backgrounds
 gnome-calculator
 gnome-control-center
 gnome-disk-utility
+gnome-keyring
 gnome-system-monitor
 gnome-terminal
 google-chrome
@@ -29,8 +31,12 @@ inetutils
 intel-ucode
 iptsd
 iwd
+java-environment-common
+jdk-openjdk
+jdk8-openjdk
 lib32-unixodbc
 libcamera-tools
+libreoffice-fresh
 libvirt
 libwacom-surface
 libxc
@@ -49,6 +55,7 @@ networkmanager
 nodejs
 ntfs-3g
 pandoc-cli
+prusa-slicer
 pulseaudio
 python-matplotlib
 python-natsort
@@ -106,7 +113,6 @@ texlive-pictures
 texlive-pstricks
 texlive-publishers
 tk
-tlp
 unityhub
 valgrind
 vlc
@@ -138,6 +144,7 @@ xorg-fonts-100dpi
 xorg-fonts-75dpi
 xorg-iceauth
 xorg-mkfontscale
+xorg-server
 xorg-server-devel
 xorg-server-xephyr
 xorg-server-xnest
@@ -155,6 +162,7 @@ xorg-xev
 xorg-xgamma
 xorg-xinput
 xorg-xkbevd
+xorg-xkbprint
 xorg-xkbutils
 xorg-xkill
 xorg-xlsatoms
