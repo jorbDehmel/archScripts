@@ -1,7 +1,7 @@
 # Jordan Dehmel, jdehmel@outlook.com, 2023, github.com/jorbDehmel
 
 # How to generate / update packages.txt:
-# pacman -Qqe > packages.txt
+# yay -Qqe > packages.txt
 # aurman checks for an installed package, then main repos, then AUR
 
 echo "This script meant to install arch with my preferences."
