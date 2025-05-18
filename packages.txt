@@ -1,5 +1,5 @@
 aarch64-linux-gnu-gcc
-android-studio
+alsa-utils
 arch-install-scripts
 baobab
 base
@@ -9,8 +9,6 @@ clang
 cmake
 doxygen
 firefox
-fish
-flutter-bin
 gdb
 gdm
 git
@@ -22,11 +20,10 @@ gnome-control-center
 gnome-disk-utility
 gnome-system-monitor
 gnome-terminal
-google-chrome
 graphviz
 grub
+gtk
 intel-ucode
-iwd
 less
 linux
 linux-firmware
@@ -41,18 +38,16 @@ openmpi
 pandoc-cli
 plantuml
 podman
-python-ipykernel
 python-matplotlib
 python-mpi4py
 python-pandas
-python-pygments
+python-pip
 python-pytest
-python-pytest-cov
-python-scikit-learn
 python-scipy
 python-seaborn
 sl
-systemd-ukify
+sof-firmware
+spacecadetpinball-git
 texlive-basic
 texlive-bibtexextra
 texlive-binextra
@@ -62,6 +57,7 @@ texlive-fontutils
 texlive-formatsextra
 texlive-humanities
 texlive-latex
+texlive-latexextra
 texlive-latexrecommended
 texlive-luatex
 texlive-mathscience
@@ -75,8 +71,6 @@ trash-cli
 valgrind
 vi
 vim
-virtualbox
-virtualbox-host-modules-arch
 vlc
 vscodium-bin
 wget
